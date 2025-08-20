@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "part6.aqa.example2.Main",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Part2 Example1",
+            "request": "launch",
+            "mainClass": "part2.Example1",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part2 Example2",
+            "request": "launch",
+            "mainClass": "part2.Example2",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part2 Example3",
+            "request": "launch",
+            "mainClass": "part2.Example3",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part2 Example4",
+            "request": "launch",
+            "mainClass": "part2.Example4",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part3 Example1",
+            "request": "launch",
+            "mainClass": "part3.Example1",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part3 Example2",
+            "request": "launch",
+            "mainClass": "part3.Example2",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part3 Example3",
+            "request": "launch",
+            "mainClass": "part3.Example3",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part3 Example4",
+            "request": "launch",
+            "mainClass": "part3.Example4",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part4 Example1",
+            "request": "launch",
+            "mainClass": "part4.Example1",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part5 Example1",
+            "request": "launch",
+            "mainClass": "part5.aqa.example1.Main",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part5 Example2",
+            "request": "launch",
+            "mainClass": "part5.aqa.example2.Main",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Part6 Example1",
+            "request": "launch",
+            "mainClass": "part6.aqa.example1.Main",
+            "projectName": "AQA_b2c3704b"
+        }
+    ]
+}
