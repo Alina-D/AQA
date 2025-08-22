@@ -6,7 +6,6 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        // Создаем ИЗМЕНЯЕМЫЙ список
         List<Integer> listInteger = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
         swapAndPrintList(listInteger, 1,2);
 
@@ -14,7 +13,14 @@ public class Main {
         swapAndPrintList(listString, 3, 1 );
 
     }
-
+/**
+     * Дженерик выводит начальный список, конечный результат списка после обмена
+     *
+     * @param <Type> тип элементов в списке
+     * @param list список с элементами типа T
+     * @param indexA индекс первого элемента для обмена
+     * @param indexB индекс второго элемента для обмена
+     */
     public static <Type> void swapAndPrintList(List<Type> list, int indexA, int indexB) {
         System.out.println("До обмена:");
         SwapUtils.printList(list);

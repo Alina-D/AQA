@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "part7.aqa.example3.Main",
+            "projectName": "AQA_b2c3704b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "part7.aqa.example2.Main",
             "projectName": "AQA_b2c3704b"
         },
